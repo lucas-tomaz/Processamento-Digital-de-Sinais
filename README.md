@@ -1,0 +1,1 @@
+Pasta destinada para registro das simulações computacionais realizadas na disciplina de Processamento Digital de Sinais. A princípio, todas as simulações serão desenvolvidas em Python e com códigos no software OCTAVE.
